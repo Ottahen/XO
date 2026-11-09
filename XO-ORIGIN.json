@@ -1,0 +1,22 @@
+{
+  "format": "XO-ORIGIN",
+  "version": "1.0",
+  "license": "XO-1.0",
+  "project": {
+    "name": "XO License",
+    "origin_id": null,
+    "repository": "https://github.com/Ottahen/XO-LICENSE"
+  },
+  "creator": {
+    "name": "OTTAHEN",
+    "stylized": "ℒ",
+    "github": "https://github.com/Ottahen"
+  },
+  "upstream": [],
+  "contributors": [],
+  "modifications": [],
+  "verification": {
+    "method": "optional-digital-signature",
+    "signature": null
+  }
+}
